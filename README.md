@@ -18,14 +18,19 @@ I'm a software engineer with a background in sales, account management, and luxu
 
 ## 🛠 Tech Stack
 
-### Front-End
+### Languages
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
+
+### Front-End
+
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/>
 </p>
 
 ### Back-End
@@ -43,6 +48,7 @@ I'm a software engineer with a background in sales, account management, and luxu
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="Canva" width="40" height="40"/>
 </p>
 
 ---
@@ -57,6 +63,28 @@ I'm a software engineer with a background in sales, account management, and luxu
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<!-- Replace 'reneecwl' with your actual GitHub username -->
+
+![Renee's GitHub stats](https://github-readme-stats.vercel.app/api?username=reneecwl&show_icons=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reneecwl&layout=compact&theme=radical)]
+
+<!-- You can also add a GitHub streak stats -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reneecwl&theme=radical)](https://git.io/streak-stats)
+
+---
+
+## 🤝 I'm Currently Looking For...
+
+- Full-stack or front-end development opportunities
+- Collaborative projects focusing on user experience
+- Connections with other developers who love creative problem-solving
 
 ---
 
