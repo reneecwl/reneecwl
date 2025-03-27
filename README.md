@@ -79,14 +79,14 @@ Softwares and Tools:
 
 ---
 
-🌏 Beyond The Code - Fun Facts
+## 🧭 Beyond The Code - Fun Facts
 When I'm not coding, you'll find me:
 
-✈️ Exploring new destinations (30+ countries and counting!)
-🌍 Living the global life (having called Europe, Asia, Australia, and now North America home)
-🔎 Solving crime mysteries (in books and shows, not real life... yet)
-🍜 Hunting for the best food
-📝 Incorporating these passions into my projects (like my travel app Lagoon!)
+- ✈️ Exploring new destinations (30+ countries and counting!)
+- 🌍 Living the global life (having called Europe, Asia, Australia, and now North America home)
+- 🔎 Solving crime mysteries (in books and shows, not real life... yet)
+- 🍜 Hunting for the best food
+- 📝 Incorporating these passions into my projects (like my travel app Lagoon!)
 
 ---
 
